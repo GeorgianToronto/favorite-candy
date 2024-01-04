@@ -26,7 +26,7 @@ Both HTML and CSS have been validated to ensure code integrity.
 
 Instructions for Local Setup::
 To set up the project locally, follow these steps:
-Clone the repository: git clone https://github.com/yourusername/how-sweet-is-this.git
+Clone the repository: git clone https://java-georgian.github.io/favorite-candy/
 Open index.html in your preferred web browser.
 
 Note to Evaluators::
